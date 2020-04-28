@@ -1,0 +1,18 @@
+版本 3.0.3 (2019年9月27日)
+NEW: Androidx support
+NEW: In app error reporting
+NEW: Improved bookmarks
+NEW: Help screen
+NEW: Home page
+NEW: Zim history
+NEW: Introductory screen
+NEW: Improved language selection
+NEW: Add note to articles
+NEW: Improved Tabs
+NEW: Share zim files with other Kiwix users
+NEW: Host zim files on your phone
++ Bugfixes & Lots More
+版本 2.5.3 (2019年8月23日)
+BUGFIX: Fix IndexOutOfBounds in KiwixMobileActivity `onResume`
+版本 2.5.2 (2019年8月15日)
+BUGFIX: Some zims files were loading empty pages

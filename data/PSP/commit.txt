@@ -1,0 +1,41 @@
+rename the others to match.
+hots more useful
+WIP - GLES: Download depth values via shader
+Fixes it on Adreno, no need to do the constant math in the shader.
+http: Report errors reading discs
+For more clarity when they can't load.
+Firewalls can cause this, by opening a connection but never responding.
+GLES: Detect Vivante GPU, disable vertex range culling
+GLES: Detect Vivante GPU, disable vertex range culling
+Should work-around 
+ARM macro has been renamed to ARM_DEVICE; fixes Raspberry Pi builds.
+Don't close invalid handles.
+n non-harmful perf warning (doesn't fix all cases, but does fix the most common one).
+Vulkan: Improve extension loading, implement dedicated_allocation correctly
+To avoid strange images in Android gallery, pre-create TEXTURES with .nomedia
+a .nomedia, and add .nomedia to the PSP directory.
+No longer enable the geometry shader feature, no plans to use it.
+ut fallback to VK_EXT_debug_report if only that is available
+ally.
+appy
+w for more extension use.
+add controllers
+nge-hack
+Disable vertex range culling when the depthrange hack is enabled."
+nge-hack
+Disable vertex range culling when the depthrange hack is enabled."
+porary workaround for 
+Disable more texcoord math on terrible-precision PowerVR
+awful 
+EGL: Avoid HDR mode. Uses unknownbrackets' changes from 
+EGL: Avoid HDR mode. Uses unknownbrackets' changes from 
+UI: Avoid using game info cache in savedata sort
+UI: Avoid using game info cache in savedata sort
+"It can change mid-sort causing the sorting results to be inconsistent,
+which will crash many implementations of std::stable_sort.
+Also, fix an issue where it kept resorting after it didn't need to and
+make it strictly ordered for equal dates/sizes."
+Actually identified this for the softgpu in 
+Broken in 
+Correctly handle memory types in VulkanPushBuffer. Should help 
+t really still need to do this, but whatever.

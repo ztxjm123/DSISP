@@ -1,0 +1,5 @@
+2011-09-01:	z=1:  htc/1 android/false kitkat/1 app/false wont/1 support/1 it./false tutanota/false drop/1 support/1 kitkat/1 older/1 version/false android./1 premium/1 membership/false wasted./1 nice/1 scam/1 running/1 tutanota/false 
+2011-09-01:	z=4:  great/4 
+2011-09-01:	z=2:  service/2 9/2 months../false paid/2 pro/2 version./2 suddenly/2 canceled/2 service/2 spam./2 business/2 send/false emails/false customers/2 banks/2 credit/2 unions/2 agreed/2 recieve/false emais/2 emails/false contact/false vehicle/2 im/2 bill/2 collector,/2 money/2 selling/2 anything./2 replied/2 basically/2 dont/2 care/2 account/2 closed/2 lost/2 money./2 9/2 months/2 dont/2 spam./2 
+2011-09-01:	z=1:  u2f/1 supported./1 register/1 u2f/1 key/1 chrome/1 windows/1 10/1 installing/1 app/false login,/1 fails./1 work/1 chrome/1 android./1 glad/1 sign/1 premium./1 app/false add/1 u2f/1 support./1 
+2011-09-01:	z=6:  useless/6 app./6 errors/6 opening,/6 open./6 ugly/6 interface./6 also,/6 app/false consumes/6 battery./false uninstalled/6 it./false 

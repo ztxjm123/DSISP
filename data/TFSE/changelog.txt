@@ -1,0 +1,22 @@
+ Improved search performance
+- Improved deletion performance
+- Improve email opening speed
+- Add support for Autofill on Android
+- Improved readability with the dark theme
+- Fixed app not starting after the 3.48.4 release
+- Add message that explains that emails are deleted after the period
+- Fixed quote margin in long threads
+- Fixed invalid mail address error
+- Fixed BadRequestError after upgrading
+- Fixed connection loss after server restart
+- Fixed TypeErrors
+- Image automatically loaded from email.
+- Fixed contact deletion from search view.
+- Improved visibility of unread mails
+- Improved gesture detection for side menu and swipe actions
+- Fixed contact editor.
+- Fixed inbox rules synchronization
+- Mail folders now show the amount of unread mail data
+- The current Tutanota version (and a link to the release notes) is now visible in the settings
+- Tutanota is now available in Latvian, Persian and Arabic.
+- Bugfixes

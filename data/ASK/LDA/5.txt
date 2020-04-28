@@ -1,0 +1,5 @@
+2011-09-01:	z=1:  add/1 nepalese/1 language/1 
+2011-09-01:	z=4:  dumb/4 predictions/4 system./4 example,/4 typing/4 letter/4 sentence/false uppercase,/4 predictions/4 composed/4 uppercase/4 only./4 predict/4 type/false letter/4 word,/4 predictions/4 respect/4 previous/false words./4 swiftkey/4 flexpansion/4 keyboard./false 
+2011-09-01:	z=2:  physical/2 keyboard./false unlike/2 gboard,/false screen/false keyboard/false hide/2 start/2 typing/2 physical/2 keyboard,/2 sacrificing/2 half/2 screen./2 lets/false set/2 multi/false language/2 support/false physical/2 keyboards,/2 press/2 shift+space/2 write/2 болшая/2 спасибо!/2 
+2011-09-01:	z=0:  everything's/false russian!/0 it?!/0 
+2011-09-01:	z=1:  lime/1 hasn't/1 georgian/1 language/1 russian/1 add/1 

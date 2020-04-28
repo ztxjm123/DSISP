@@ -1,0 +1,8 @@
+* Fix for display corruption on PowerVR and workarounds for Adreno driver bugs
+* Speed improvements in EDF2, FF4
+* Crashes/hangs fixed in Naruto Shippuden 3, Formula 1, Motorstorm
+* Graphics fixes in a number of games (lighting, missing geometry, etc)
+* Fix "real clock sync" setting (helps with latency for music games)
+* Change default Backend to OpenGL (Vulkan still recommended)
+* Fix control issue in Sonic Rivals and Rock Band
+* Allow putting PSP storage on custom paths like SD cards

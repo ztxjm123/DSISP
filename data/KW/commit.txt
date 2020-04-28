@@ -1,0 +1,93 @@
+other changes already added, plus my final change deleting unused strings
+other changes already added, plus my final change deleting unused strings
+Also added hints for layout readability
+ upgrade leakcanary to 2.0 and fix strict mode issues
+ upgrade leakcanary to 2.0 and fix strict mode issues
+"-leakcanary-ci
+# Conflicts:
+#	app/build.gradle"
+…orage-devices
+…orage-devices
+…orage-devices
+The option added confusion considering there's already a cross icon to close the activity, which also handles the disconnection.
+… feature/LocalFileTransfer
+… feature/LocalFileTransfer
+"…of-deletion
+Feature/macgills/"
+"…of-deletion
+Feature/macgills/"
+set bottom toolbar to show by default resolve issue 
+set bottom toolbar to show by default resolve issue 
+"-android-storage-devices
+# Conflicts:
+#	app/build.gradle"
+"…-scripts-invalid
+Chain deploy commands with && as Multinline is illegal syntax"
+…gument-exception-file-utils
+"-illegal-argument-exception-file-utils
+# Conflicts:
+#	app/build.gradle"
+New translations for the UI
+-illegal-argument-exception-file-utils
+-android-storage-devices
+-leakcanary-ci
+"…mentation
+Move Instrumentation first and use TestOrchestrator to minimise memor…"
+…y usage
+…org so they are created
+…olumn name exists before accessing it
+…hecker
+…hecker
+-anr-fat32checker
+…d-release-uploads
+…d-release-uploads
+-nightly-and-release-uploads
+Fix lint errors introduced in PRs merged before lint PR
+Fix lint errors introduced in PRs merged before lint PR
+…thread
+ add baseline lint to ignore existing issues, aggressively mark al…
+ read action mode for sharing and deleting zim files on disk
+ read action mode for sharing and deleting zim files on disk
+change hotspot ssid and hotspot pass.
+"Added forground hotspot service for >=O
+Add constants."
+"Added HotspotService
+Build foreground notification.
+Added broadcast receiver for stop button.
+Changed code in MainActivity for API<26.
+Added string values
+Declared service in manifest."
+"mobileDataDialog(): tells the user his data is enabled.
+hotspotDetailsDialog(): tells the user details of local hotspot."
+"Added a method toggleHotspot() that deals with recursion.
+Now on first app installation, on a single click
+permission is asked and if granted, wifi hotspot turns on."
+Add comments to mobile data methods, menu item wifi_hospot
+Checking the result of LocationSettings resolution in onActivityResult
+"Added method checkHotspotState()
+It checks the state of the hostpot for devices>=Oreo"
+"Removed the force variable that forced permission.
+Permission will only appear if it is not allowed."
+"Added a method isMobileDataEnabled() that uses ConnectivityManager
+And checks if data is enabled or not.
+If data is enabled, then it takes the user to enableDisableMobileData()
+It shows the user Data Usage Summary settings screen."
+"Created a location request
+added onCompletionListener for LocationSettingsResponse
+Checked LocationSettingsStates in onActivityResult()
+Added gms location dependency."
+"Worked with WifiManager's startLocalOnlyHotspotCallback
+It is specifically for android versions>=O"
+"Write settings permission popping up on every restart.
+Using Toast to display Wifi Hotspot Enabled/Disabled"
+"Initialize WifiManager object in MainActivity.
+And work with WifiHotspotManager class."
+It's used to get current state of wifi access point.
+Declare enums to check the WifiAp state.
+"This classes manages all the wifi-hotspot logic.
+It uses WifiManager and WifiConfiguration classes by Android.
+Add method to check show write permission settings.
+Add method setWifiEnabled to setup wifi hotspot
+Add setters/getters for WifiConfiguration"
+"Wifi related permissions.
+Write system settings permission."

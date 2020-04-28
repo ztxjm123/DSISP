@@ -1,0 +1,4 @@
+Breaking Change Notice
+User Profile API: We previously updated default access for the User Profile API to only include name, first_name, last_name, and profile_pic. Effective as of today, all apps shall have access to additional profile fields if they have been approved in app review. You may apply for access to additional fields in the Messenger Platform tab of your app console.
+Customer chat plugin (beta): Starting today, you will need to use sdk/xfbml.customerchat.js library in order to render the customer chat plugin on your website. You'll no longer be able to use sdk.js to load the plugin.
+Checkbox Plugin: Following the default state of the checkbox plugin being unchecked, as of April 9, 2019, we will no longer allow a pre-checked state.

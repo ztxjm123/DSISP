@@ -1,0 +1,8 @@
+* Keyboard colors will adapt to used app. Enable this in Themes settings.
+* Night Mode - keyboard and app will use dark theme.
+* Power Saving mode tweaks.
+* Updated build-tools (smaller binary now).
+* Halmak layout for English.
+* Updated translations.
+ Gesture-Typing is here! As BETA. You'll need to enable it in Settings if you want to try it out.
+* Updated localization: BE, CKB, EU, FR, IT, SC.

@@ -1,0 +1,416 @@
+版本 3.2.1 (2020年3月6日)
+NEW: Downloads tab merged with Library
+NEW: Improved translations
+NEW: Swipe down to show tabs
+NEW: Swipe left/right on top bar to switch tabs
+NEW: Improved UI for Bookmarks & History
+BUGFIX: Improved the speed of file system detection for SD cards
+BUGFIX: Improved speed of Article Search
+BUGFIX: Language changes in Settings better supported
+BUGFIX: Read Aloud shows warning for unsupported languages
+BUGFIX: Find In Page crash when searching for empty
++ Lots More
+版本 3.1.3 (2020年1月10日)
+BUGFIX: Correct logic for selected book tags
+BUGFIX: Crash when searching content via selected text in browser
+BUGFIX: Night mode videos were inverted when fullscreened
+BUGFIX: Search widget unresponsive
+版本 3.1.2 (2019年12月20日)
+NEW: Revamped Night Mode
+NEW: Books unsupported by file system are greyed out
+NEW: Tags for books
++ Bugfixes & Lots More
+版本 3.0.5 (2019年10月31日)
+BUGFIX: Some zim files could not be downloaded due to missing metadata
+BUGFIX: Some mirrors were not allowed to download via http
+版本 3.0.4 (2019年10月4日)
+BUGFIX: Some users language was causing a crash due to unstable ISO codes
+BUGFIX: Some unstable zim files were crashing when opened
+BUGFIX: Long titles were rendering off screen on home page
+BUGFIX: Issues when opening a file externally
+版本 3.0.3 (2019年9月27日)
+NEW: Androidx support
+NEW: In app error reporting
+NEW: Improved bookmarks
+NEW: Help screen
+NEW: Home page
+NEW: Zim history
+NEW: Introductory screen
+NEW: Improved language selection
+NEW: Add note to articles
+NEW: Improved Tabs
+NEW: Share zim files with other Kiwix users
+NEW: Host zim files on your phone
++ Bugfixes & Lots More
+版本 2.5.3 (2019年8月23日)
+BUGFIX: Fix IndexOutOfBounds in KiwixMobileActivity `onResume`
+版本 2.5.2 (2019年8月15日)
+BUGFIX: Some zims files were loading empty pages
+版本 2.5.1 (2019年6月28日)
+版本 2.4 (2018年8月8日)
+版本 2.2 (2018年8月4日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Autohide app toolbar
+NEW: Keep bookmarks over data updates
+版本 2.2 (2018年8月1日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Autohide app toolbar
+NEW: Keep bookmarks over data updates
+版本 2.2 (2018年7月28日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Autohide app toolbar
+NEW: Keep bookmarks over data updates
+版本 2.2 (2018年7月17日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Autohide app toolbar
+NEW: Keep bookmarks over data updates
+版本 2.2 (2018年7月12日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Autohide app toolbar
+NEW: Keep bookmarks over data updates
+版本 2.2 (2017年11月28日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Autohide app toolbar
+NEW: Keep bookmarks over data updates
+版本 2.2 (2017年11月27日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Autohide app toolbar
+NEW: Keep bookmarks over data updates
+版本 2.2 (2017年11月9日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Autohide app toolbar
+NEW: Keep bookmarks over data updates
+版本 2.2 (2017年10月22日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Autohide app toolbar
+NEW: Keep bookmarks over data updates
+版本 2.2 (2017年2月27日)
+2.2
+FIX: Text To Speech issues on earlier Android versions
+FIX: SD card detection in a few edge cases
+FIX: Sporadic transparent menu
+FIX: Download resilience and experience
+FIX: Few problems with icon positions
+FIX: "Night mode" for pictures
+NEW: UI "night mode"
+NEW: UI colors
+NEW: Keep bookmarks over data updates
+NEW: Autohide app toolbar
+版本 2.1 (2017年2月21日)
+2.1
+FIX: Display of storage devices
+FIX: External SD cards detection
+FIX: ZIM file detection speed
+FIX: Core errors handling
+FIX: Save image
+FIX: ZIM file deletion
+FIX: Transparent action menu
+NEW: Pause/Resume TTS
+版本 2.1 (2017年2月16日)
+2.1
+FIX: Display of storage devices
+FIX: External SD cards detection
+FIX: ZIM file detection speed
+FIX: Core errors handling
+FIX: Save image
+FIX: ZIM file deletion
+FIX: Transparent action menu
+NEW: Pause/Resume TTS
+版本 2.1 (2017年2月15日)
+2.1
+FIX: Display of storage devices
+FIX: External SD cards detection
+FIX: ZIM file detection speed
+FIX: Core errors handling
+FIX: Save image
+FIX: ZIM file deletion
+FIX: Transparent action menu
+NEW: Pause/Resume TTS
+版本 2.1 (2017年2月14日)
+2.1
+FIX: Display of storage devices
+FIX: External SD cards detection
+FIX: ZIM file detection speed
+FIX: Core errors handling
+FIX: Save image
+FIX: ZIM file deletion
+FIX: Transparent action menu
+NEW: Pause/Resume TTS
+版本 2.1 (2016年12月28日)
+2.1
+FIX: Display of storage devices
+FIX: External SD cards detection
+FIX: ZIM file detection speed
+FIX: Core errors handling
+FIX: Save image
+FIX: ZIM file deletion
+FIX: Transparent action menu
+NEW: Pause/Resume TTS
+版本 2.0 (2016年12月18日)
+NEW: Download manager
+NEW: Clean history button
+NEW: Open new tab in background - settings option
+NEW: Kiwix search home screen widget
+NEW: Splash Screen and improved Welcome Screen
+FIXED: Opening filenames with special characters
+FIXED: Useless "w820dp" language
+FIXED: Failing he, id, yi locales
+FIXED: Non-localised setting language list sorting
+FIXED: Multiple search history problems
+FIXED: Crashes with 'Twillight' app
+FIXED: Full text search with split ZIM files
+版本 2.0 (2016年10月18日)
+NEW: Download manager
+NEW: Clean history button
+NEW: Open new tab in background - settings option
+NEW: Kiwix search home screen widget
+NEW: Splash Screen and improved Welcome Screen
+FIXED: Opening filenames with special characters
+FIXED: Useless "w820dp" language
+FIXED: Failing he, id, yi locales
+FIXED: Non-localised setting language list sorting
+FIXED: Multiple search history problems
+FIXED: Crashes with 'Twillight' app
+FIXED: Full text search with split ZIM files
+版本 1.99 (2016年10月16日)
+1.99
+* FIXED: load error with SD cards on ICS
+1.98
+FIXED: Bookmark icon correctly updates when switching tabs
+NEW: Tabs reopen as you left them after app restart
+NEW: Undo tab deletions with one click
+NEW: Table of contents for articles accessed by swiping left
+NEW: Improved Bookmark System
+NEW: Back and forward buttons show as disabled if unusable
+NEW: Real time permission requests for Marshmallow
+NEW: Asks the user if they would consider rating the app
+版本 1.99 (2016年9月26日)
+1.99
+* FIXED: load error with SD cards on ICS
+1.98
+FIXED: Bookmark icon correctly updates when switching tabs
+NEW: Tabs reopen as you left them after app restart
+NEW: Undo tab deletions with one click
+NEW: Table of contents for articles accessed by swiping left
+NEW: Improved Bookmark System
+NEW: Back and forward buttons show as disabled if unusable
+NEW: Real time permission requests for Marshmallow
+NEW: Asks the user if they would consider rating the app
+版本 1.99 (2016年9月24日)
+1.99
+* FIXED: load error with SD cards on ICS
+1.98
+FIXED: Bookmark icon correctly updates when switching tabs
+NEW: Tabs reopen as you left them after app restart
+NEW: Undo tab deletions with one click
+NEW: Table of contents for articles accessed by swiping left
+NEW: Improved Bookmark System
+NEW: Back and forward buttons show as disabled if unusable
+NEW: Real time permission requests for Marshmallow
+NEW: Asks the user if they would consider rating the app
+版本 1.99 (2016年9月23日)
+1.99
+* FIXED: load error with SD cards on ICS
+1.98
+FIXED: Bookmark icon correctly updates when switching tabs
+NEW: Tabs reopen as you left them after app restart
+NEW: Undo tab deletions with one click
+NEW: Table of contents for articles accessed by swiping left
+NEW: Improved Bookmark System
+NEW: Back and forward buttons show as disabled if unusable
+NEW: Real time permission requests for Marshmallow
+NEW: Asks the user if they would consider rating the app
+版本 1.99 (2016年9月22日)
+1.99
+* FIXED: load error with SD cards on ICS
+1.98
+FIXED: Bookmark icon correctly updates when switching tabs
+NEW: Tabs reopen as you left them after app restart
+NEW: Undo tab deletions with one click
+NEW: Table of contents for articles accessed by swiping left
+NEW: Improved Bookmark System
+NEW: Back and forward buttons show as disabled if unusable
+NEW: Real time permission requests for Marshmallow
+NEW: Asks the user if they would consider rating the app
+版本 1.99 (2016年9月21日)
+1.99
+* FIXED: load error with SD cards on ICS
+1.98
+FIXED: Bookmark icon correctly updates when switching tabs
+NEW: Tabs reopen as you left them after app restart
+NEW: Undo tab deletions with one click
+NEW: Table of contents for articles accessed by swiping left
+NEW: Improved Bookmark System
+NEW: Back and forward buttons show as disabled if unusable
+NEW: Real time permission requests for Marshmallow
+NEW: Asks the user if they would consider rating the app
+版本 1.99 (2016年9月19日)
+1.99
+* FIXED: load error with SD cards on ICS
+1.98
+FIXED: Bookmark icon correctly updates when switching tabs
+NEW: Tabs reopen as you left them after app restart
+NEW: Undo tab deletions with one click
+NEW: Table of contents for articles accessed by swiping left
+NEW: Improved Bookmark System
+NEW: Back and forward buttons show as disabled if unusable
+NEW: Real time permission requests for Marshmallow
+NEW: Asks the user if they would consider rating the app
+版本 1.99 (2016年4月14日)
+1.99
+* FIXED: load error with SD cards on ICS
+1.98
+FIXED: Bookmark icon correctly updates when switching tabs
+NEW: Tabs reopen as you left them after app restart
+NEW: Undo tab deletions with one click
+NEW: Table of contents for articles accessed by swiping left
+NEW: Improved Bookmark System
+NEW: Back and forward buttons show as disabled if unusable
+NEW: Real time permission requests for Marshmallow
+NEW: Asks the user if they would consider rating the app
+版本 1.98 (2016年4月10日)
+1.98
+FIXED: Bookmark icon correctly updates when switching tabs
+NEW: Tabs reopen as you left them after app restart
+NEW: Undo tab deletions with one click
+NEW: Table of contents for articles accessed by swiping left
+NEW: Improved Bookmark System
+NEW: Back and forward buttons show as disabled if unusable
+NEW: Real time permission requests for Marshmallow
+NEW: Asks the user if they would consider rating the app
+版本 1.97 (2016年2月14日)
+1.97
+FIXED: Soft-keyboard opens on "find in page" click
+FIXED: "Back to Top" button fades out after 1.5 seconds
+NEW: App can be moved to SD card
+NEW: ARM64 support
+NEW: Beta full-text search (put the *.idx" directory beside the ZIM)
+NEW: Restart with last open article on exact same position
+NEW: Click on app title displays the search input box
+NEW: Remember fullscreen setting over app restarts
+NEW: Few additional languages supported for the UI
+NEW: Build against newer version of Android NDK/SDK
+版本 1.96 (2015年8月16日)
+1.96
+FIXED: Freezes with long press on text
+FIXED: Duplicates in suggestions list
+1.95
+FIXED: Crash with the Settings
+1.94
+NEW: Revamped tabs system
+NEW: Revamped zoom system
+NEW: Audio/Video suport
+NEW: Updated "Ray Charles" ZIM demo file
+FIXED: AutoCompleteTextView in landscape mode
+FIXED: PDF & EPUB viewing
+REMOVED: Gingerbread support
+REMOVED: Share with friends
+REMOVED: Zoom button
+版本 1.95 (2015年8月1日)
+1.95
+FIXED: Crash with the Settings
+1.94
+NEW: Revamped tabs system
+NEW: Revamped zoom system
+NEW: Audio/Video suport
+NEW: Updated "Ray Charles" ZIM demo file
+FIXED: AutoCompleteTextView in landscape mode
+FIXED: PDF & EPUB viewing
+REMOVED: Gingerbread support
+REMOVED: Share with friends
+REMOVED: Zoom button
+版本 1.94 (2015年7月16日)
+1.94
+NEW: Revamped tabs system
+NEW: Revamped zoom system
+NEW: Audio/Video suport
+NEW: Updated "Ray Charles" ZIM demo file
+FIXED: AutoCompleteTextView in landscape mode
+FIXED: PDF & EPUB viewing
+REMOVED: Gingerbread support
+REMOVED: Share with friends
+REMOVED: Zoom button
+版本 1.93 (2015年2月18日)
+版本 1.92 (2015年1月24日)
+版本 1.91 (2014年10月16日)
+版本 1.9 (2014年4月1日)
+版本 1.8 (2013年12月21日)
+版本 1.7 (2013年12月19日)
+版本 1.6 (2013年12月2日)
+版本 1.5 (2013年11月10日)
+版本 1.4 (2013年11月3日)
+版本 1.3 (2013年7月29日)
+版本 1.2 (2013年5月9日)
+版本 1.1 (2013年4月8日)

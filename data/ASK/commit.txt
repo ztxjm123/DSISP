@@ -1,0 +1,123 @@
+Migrating themes
+API+Themes migration
+API+Themes migration
+Restructing external packs from LanguagePack
+Restructing external packs from LanguagePack
+This is to support the fix for themes
+Initial refactor to support themes
+Finnish migration
+Finnish migration
+Need to create an app on play-sotre
+Nighmode off by default
+Czech language migration + new layout
+Czech language migration + new layout
+localization update
+localization update
+"…ggetions-is-off
+
+Hide candidates when suggetions is off"
+"…ggetions-is-off
+
+Hide candidates when suggetions is off"
+Localization
+"…ngers-1622
+
+Ensuring gesture-typing is not done with more than one finger"
+"…ngers-1622
+
+Ensuring gesture-typing is not done with more than one finger"
+Issue 
+Fix for emoji aapt encoding. 
+Localization update
+Localization update
+Disabling Gesture-Typing on-low-battery. 
+Disabling Gesture-Typing on-low-battery. 
+Replacing gplus link with web-site
+Replacing gplus link with web-site
+Robolectric 4.2 and better reports collecting
+Localization
+Localization
+Night mode
+Add missing characters in Catalan keyboard
+Making keyboard theme configurations button visible.
+Making keyboard theme configurations button visible.
+New language pack: Nias
+New language pack: Nias
+…screenshots, added Finnish descriptions.
+Updating config to reflect OS locale
+Updating config to reflect OS locale
+ImageMagick bat scripts for Windows. (gradle changes NOT tested on Unix platforms)
+ImageMagick bat scripts for Windows. (gradle changes NOT tested on Unix platforms)
+Migrating Turkish to monorepo
+…ix platforms)
+Gradle 5.1.1
+Catalan keyboard
+Added Nikolay Nemshilov's Halmak keyboard layou and corrected some typos
+Added Nikolay Nemshilov's Halmak keyboard layou and corrected some typos
+Suggestions strip
+Suggestions strip
+Replacing Stop-Suggestions with StripAction
+adding missing pop-ups in Spanish
+adding missing pop-ups in Spanish
+Ensuring Release is alway built from source
+Ensuring Release is alway built from source
+Breaking DSLs from main script to severals
+Breaking DSLs from main script to severals
+caching .android folder
+Configuration avoidance changes
+Bump AGP
+Bump agp
+Bump agp
+And using aapt2
+Fix flag path & relative links in gradle
+Fix flag path & relative links in gradle
+"The directory `languages` was missing in the path.
+Since relative link is used in flags, I also modified it in source link."
+Fix French Pack CA keyboard id & fix french flag
+Fix French Pack CA keyboard id & fix french flag
+Sardinian language files with the new project structure.
+Update phone screenshots for Tamazight language pack
+Update phone screenshots for Tamazight language pack
+Update full-description.txt
+Including it in publishing
+flag file detection was wrong
+Migrating French Pack
+Migrating French Pack
+encode correction and description chance
+encode correction and description chance
+Migrating Tamazight
+"Change links to point in the current repo.
+Furthermore, README.md is easier to read in raw."
+there was some errors with encoding at play store, some files weren't using utf-8
+keyboard fix
+keyboard fix
+Fix typo link to indonesian directory
+Fix typo link to indonesian directory
+Bump stuff
+Bump stuff
+Fix ind play store
+Removing unused graphics from BR
+Removing unused graphics from BR
+Fixing Brazilian and Indonesian
+Fixing Brazilian and Indonesian
+Add indonesian language pack
+Add indonesian language pack
+localization
+localization
+Added pt-BR descriptions, pure qwerty layout and screenshots
+Add cyrillic symbols to russian keyboard
+Migrating Greek
+Migrating brazilian
+Compact Dvorak layout
+Compact Dvorak layout
+Tweaking overlay color-filter
+Tweaking overlay color-filter
+This release is 1.10
+This release is 1.10
+Updating localization
+Updating localization
+Adaptive Keyboard Colors
+
+
+
+

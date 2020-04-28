@@ -1,0 +1,61 @@
+ separate ipc for multiple windows, 
+ separate ipc for multiple windows, 
+…Boxes for narrow displays, 
+[Desktop] add CtrlOrCommand+N as 'New Window' shortcut
+…ymore, also an info is shown additionally if failed debit attempts are existing, 
+Desktop bugfixes
+…ext to each other, otherwise it is handled as a text-ellipsis with a tool tip, 
+Mitigates a Chromium bug:
+Mitigates a Chromium bug:
+[android] Fallback to URI when picking file and name is absent
+Fix android 2fa
+Fix android 2fa
+ignore 404 on updating entities, 
+throttle calls to history.pushState(), 
+Fix building index with long codepoints, 
+…ne, 
+"…om in 1.1.6 under certain conditions.
+ This was fixed by "
+"CmdOrCtrl+H for hiding, CmdOrCtrl+W for closing windows.
+Move Header inspection from Ctrl+H to just H"
+"nonClobberingFileName edge cases
+open file manager after download"
+…n darwin
+…tication
+…ion for copying links, 
+Also fix animations
+…act form, and make it configurable for whitelabel, 
+Fix error on dragover, 
+Fix missing redraw when receiving inbox rule update.
+Fix missing redraw when receiving inbox rule update.
+Enable microtask hack for Waterfox, 
+view, 
+add rightAlign and preventAutofill to new TextField
+onsDialog
+"`resources/images/hub.png` had white background in some parts which was not looking nice on the dark background.
+Now it's transparent as it should be."
+Make the resource image dark-mode friendly
+Make the resource image dark-mode friendly
+fix: removes uservoice links
+fix: removes uservoice links
+"close window: hide if logged in, close otherwise (only as tray app)
+minimize window: now works as expected even as tray app"
+"add mapping from java.net.ConnectException to ConnectionError
+ignore some errors with injected code"
+Also fixed binary encoding for numbers
+… update that contains new conf keys), 
+…n page
+…multi search view, 
+don't show mail notifications when window is focused, 
+don't show mail notifications when window is focused, 
+into filedata-enc-size
+into filedata-enc-size
+improved index progress
+Sort by name before slicing. Show "show more" button.
+encryption and decryption is not supported for admin by default.
+Fix Flow not checking enum types.
+old ones, 
+old ones
+Conflicts:
+src/desktop/DesktopMain.js"
+types.
