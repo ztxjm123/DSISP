@@ -1,1 +1,7 @@
-2011-09-01:	z=0:  love/0 it./0 eagerly/0 awaiting/0 (functional)/0 swipe/false typing./0 
+2011-09-01:	z=2:  finest/2 privacy/false keyboard/2 
+2011-09-01:	z=2:  eagerly/2 awaiting/2 functional/2 swipe/2 typing/2 
+2011-09-01:	z=2:  great/false add/false korean/2 hangul/false language/2 
+2011-09-01:	z=2:  excellent/false keyboard/2 application/2 easily/false add/false foreign/2 language/2 keyboard/2 installed/2 armenian/2 switch/false english/2 language/2 
+2011-09-01:	z=2:  keyboard/2 prediction/2 autocorrection/2 behavior/2 random/false useable/2 norwegian/2 swipe/2 big/false empty/false space/2 bottom/false make/false miss/2 button/2 regularly/false make/false hardtop/2 thiskeyboard/2 space/false skipped/2 word/2 combineand/2 corrected/false completely/false wrong/2 hardtop/2 previous/false sentence/2 hard/false find/false setting/false remove/2 empty/false space/2 
+2011-09-01:	z=2:  dumb/false prediction/2 system/false typing/2 letter/false sentence/2 uppercase/2 prediction/2 composed/2 uppercase/2 predict/2 type/false letter/2 word/2 prediction/2 respect/2 previous/false word/2 swiftkey/2 flexpansion/2 keyboard/2 
+2011-09-01:	z=2:  physical/2 keyboard/2 unlike/2 gboard/2 screen/false keyboard/2 hide/2 start/false typing/2 physical/2 keyboard/2 sacrificing/2 half/false screen/false set/false multi/2 language/2 support/false physical/2 keyboard/2 press/false shift/2 space/2 write/2 болшая/2 спасибо/false 
