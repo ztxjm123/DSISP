@@ -4,8 +4,7 @@ import LDAdata as lda
 import Topicinrz as top
 
 if __name__ == '__main__':
-    APPname = ['YT', 'UB', 'FB', 'SH', 'PSP', 'ASK', 'KW', 'TFSE']
-    ldanumber = [7, 3, 2, 2, 11, 5, 5, 6]
+    APPname = ['ASK', 'FB', 'KW', 'PSP', 'SH', 'TFSE', 'UB', 'YT']
     for i in range(len(APPname)):
         name = APPname[i]
         # resb参数
@@ -27,6 +26,7 @@ if __name__ == '__main__':
         # pdl = input("CSW is OK? and then get lda(1 or 0)")
         # lda.main(path, path2)
         # pdt = input("bogu.xlsx is OK?(1 or 0)")
-        ldan = ldanumber[i]
-        t = top.main(path, rzpath, rzpath2, ldan)
+        t = top.main(path, rzpath, rzpath2, i+1)
+
+
 

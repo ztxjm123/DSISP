@@ -57,12 +57,11 @@ def qu_fuhao(views):
 def topiclda(path1, rzpath, rzpath2, rn):
     t = []
     newread = []
-    for tn in range(1, rn+1):
-        path = path1+'LDA/'+str(tn)+'.txt'
-        file = open(path, encoding='utf-8')
-        read = file.readlines()
-        for r in read:
-            newread.append(r)
+    path = path1 + 'LDA/' + str(rn) + '.txt'
+    file = open(path, encoding='utf-8')
+    read = file.readlines()
+    for r in read:
+        newread.append(r)
     for line in newread:
         li = re.findall(r" (.+?)/", line)
         tx = []

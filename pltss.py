@@ -1,20 +1,20 @@
 import matplotlib.pyplot as plt
 
 
-if __name__ == '__main__':
-    x = ['2018-12-12', '2018-12-15', '2018-12-18', '2018-12-21', '2018-12-23', '2018-12-25', '2018-12-28', '2018-12-31',
-         '2019-1-3', '2019-1-6', '2019-1-9', '2019-1-12', '2019-1-15', '2019-1-18', '2019-1-21']
-    squar = [1.7, -1.4, -2.2, 0.65, -0.3, -0.29, -0.15, -0.48, -0.4, -0.65, -0.41, -0.42, -0.1, -0.25, -0.29]
-    plt_x = ['2018-12-12', '2018-12-21', '2018-12-28', '2019-1-6', '2019-1-15']
-    if len(x) == len(squar):
-        plt.plot(x, squar, color='#4146d5', linewidth=3.5)
-        plt.ylabel(u'ARS(score)', fontsize=18)
-        plt.xlabel(u'date', fontsize=15)
-        plt.title(u'Uber', fontsize=20)
-        plt.tick_params(axis='x', labelsize=18)
-        plt.tick_params(axis='y', labelsize=15)
-        plt.xticks(plt_x)
-        plt.show()
+# if __name__ == '__main__':
+#     x = ['2018-12-12', '2018-12-15', '2018-12-18', '2018-12-21', '2018-12-23', '2018-12-25', '2018-12-28', '2018-12-31',
+#          '2019-1-3', '2019-1-6', '2019-1-9', '2019-1-12', '2019-1-15', '2019-1-18', '2019-1-21']
+#     squar = [1.7, -1.4, -2.2, 0.65, -0.3, -0.29, -0.15, -0.48, -0.4, -0.65, -0.41, -0.42, -0.1, -0.25, -0.29]
+#     plt_x = ['2018-12-12', '2018-12-21', '2018-12-28', '2019-1-6', '2019-1-15']
+#     if len(x) == len(squar):
+#         plt.plot(x, squar, color='#4146d5', linewidth=3.5)
+#         plt.ylabel(u'ARS(score)', fontsize=18)
+#         plt.xlabel(u'date', fontsize=15)
+#         plt.title(u'Uber', fontsize=20)
+#         plt.tick_params(axis='x', labelsize=18)
+#         plt.tick_params(axis='y', labelsize=15)
+#         plt.xticks(plt_x)
+#         plt.show()
 
 
 
@@ -28,18 +28,18 @@ if __name__ == '__main__':
 #     plt.show()
 
 
-# if __name__ == '__main__':
-#     x = [3, 5, 7, 9, 11, 13, 15]
-#     squar = [0.564, 0.641, 0.579, 0.525, 0.505, 0.476, 0.419]
-#     plt_y = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7]
-#     plt_x = [3, 5, 7, 9, 11, 13, 15]
-#     plt.plot(x, squar, color='#4146d5', linewidth=3.5, marker='o', linestyle='solid')
-#     plt.ylabel(u'Fhybrid', fontsize=15)
-#     plt.grid(axis='y', linestyle='-.')
-#     plt.xlabel(u'V t', fontsize=15)
-#     plt.yticks(plt_y)
-#     plt.xticks(plt_x)
-#     plt.show()
+if __name__ == '__main__':
+    x = [3, 5, 7, 9, 11, 13, 15]
+    squar = [0.69, 0.76, 0.73, 0.68, 0.64, 0.59, 0.58]
+    plt_y = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8]
+    plt_x = [3, 5, 7, 9, 11, 13, 15]
+    plt.plot(x, squar, color='#4146d5', linewidth=3.5, marker='o', linestyle='solid')
+    plt.ylabel(u'Fhybrid', fontsize=15)
+    plt.grid(axis='y', linestyle='-.')
+    plt.xlabel(u'V t', fontsize=15)
+    plt.yticks(plt_y)
+    plt.xticks(plt_x)
+    plt.show()
 
 
 
